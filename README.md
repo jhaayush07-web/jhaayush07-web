@@ -98,81 +98,16 @@ IntelliJ IDEA
 
 ---
 
+```markdown
 # 🚀 Featured Projects
 
-## 🤖 TalentForge AI
+| Project | Description | Key Features | Tech Stack |
+|---------|-------------|--------------|------------|
+| 🤖 **TalentForge AI** | AI-powered Career Preparation Platform | ✅ Resume Analyzer <br> ✅ ATS Resume Checker <br> ✅ Job Recommendation <br> ✅ Skill Gap Analysis <br> ✅ AI Career Roadmap <br> ✅ Document Summarization <br> ✅ Interview Question Generator <br> ✅ AI Mock Interview <br> ✅ Performance Dashboard | **Java** • **React** • **MySQL** • **OpenAI API** • **JWT** • **RAG** |
+| 🏠 **Easy Home** | House Rent Web Application | ✅ Property Listing <br> ✅ Authentication <br> ✅ Search & Filters <br> ✅ Booking Management <br> ✅ User Dashboard | **Java** • **React** • **MySQL** |
+| 📄 **Resume Analyzer** | AI-powered Resume Analysis | ✅ ATS Score <br> ✅ Resume Parsing <br> ✅ Skill Extraction <br> ✅ Interview Questions | **Java** • **OpenAI API** • **NLP** |
+```
 
-AI-powered Career Preparation Platform
-
-✔ Resume Analyzer
-
-✔ ATS Resume Checker
-
-✔ Job Recommendation
-
-✔ Skill Gap Analysis
-
-✔ AI Career Roadmap
-
-✔ Document Summarization
-
-✔ Interview Question Generator
-
-✔ AI Mock Interview
-
-✔ Performance Dashboard
-
-**Tech Used**
-
-Java
-
-React
-
-MySQL
-
-OpenAI API
-
-JWT
-
-RAG
-
----
-
-## 🏠 Easy Home
-
-House Rent Web Application
-
-✔ Property Listing
-
-✔ Authentication
-
-✔ Search & Filters
-
-✔ Booking Management
-
-✔ User Dashboard
-
-**Tech Used**
-
-Java
-
-React
-
-MySQL
-
----
-
-## 📄 Resume Analyzer
-
-AI-powered Resume Analysis
-
-✔ ATS Score
-
-✔ Resume Parsing
-
-✔ Skill Extraction
-
-✔ Interview Questions
 
 ---
 
