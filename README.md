@@ -29,17 +29,6 @@ Java • Spring Boot • React • OpenAI • RAG
 
 🧠 Exploring RAG, LLMs and Generative AI
 
-🌱 Currently Learning
-
-* Advanced Spring Boot
-* System Design
-* RAG Applications
-* Multi-Agent AI Systems
-* LangChain
-* Vector Databases
-* Docker & AWS
-
----
 
 # 🚀 Tech Stack
 
@@ -61,13 +50,7 @@ Embeddings
 
 LangChain
 
-Vector Search
-
 ## Backend
-
-Spring Boot
-
-Spring Security
 
 REST APIs
 
@@ -143,8 +126,6 @@ AI-powered Career Preparation Platform
 
 Java
 
-Spring Boot
-
 React
 
 MySQL
@@ -175,8 +156,6 @@ House Rent Web Application
 
 Java
 
-Spring Boot
-
 React
 
 MySQL
@@ -194,22 +173,6 @@ AI-powered Resume Analysis
 ✔ Skill Extraction
 
 ✔ Interview Questions
-
----
-
-# 🌱 Currently Working On
-
-🤖 AI Career Preparation Platform
-
-📄 Resume Intelligence
-
-🧠 Retrieval-Augmented Generation (RAG)
-
-⚡ LLM Applications
-
-🔍 AI Interview Assistant
-
-☁ Spring Boot Microservices
 
 ---
 
