@@ -108,8 +108,6 @@ IntelliJ IDEA
 | 📄 **Resume Analyzer** | AI-powered Resume Analysis | ✅ ATS Score <br> ✅ Resume Parsing <br> ✅ Skill Extraction <br> ✅ Interview Questions | **Java** • **OpenAI API** • **NLP** |
 ```
 
-```
-
 # 📈 GitHub Analytics
 
 <p align="center">
